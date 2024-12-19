@@ -10,3 +10,5 @@ Host a static website using Amazon S3 for storage and Amazon CloudFront for cont
 ## 3. Origin Access Control (OAC) was established and linked to the CloudFront distribution.
 ## 4. An S3 bucket policy was created to restrict access to the website, allowing only CloudFront to serve the content.
 ## 5. This setup provides secure, fast, and scalable access to the website.
+
+# imp always save id's
